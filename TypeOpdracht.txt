@@ -1,0 +1,10 @@
+PlayerContext
+Room
+PlayerSprite
+bool
+int
+readonly
+bitmap
+Graphics
+string
+float
