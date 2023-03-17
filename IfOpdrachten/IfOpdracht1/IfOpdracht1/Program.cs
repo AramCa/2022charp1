@@ -43,7 +43,7 @@ namespace IfOpdracht1
             }
 
 
-            if (false)//vervang false met een test of nummerA NIET (!) gelijk is aan nummerB
+            if (nummerA != nummerB)//vervang false met een test of nummerA NIET (!) gelijk is aan nummerB
             {
                 Console.WriteLine("nummerA is niet gelijk aan nummerB");//deze moet je zien
             }
